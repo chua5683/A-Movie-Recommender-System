@@ -2,7 +2,7 @@ Simple movie recommender systems:
 
 To do list:
 * Content based recommender system
-  * based on metadata
+  * based on movie metadata
   * based on casts, crews, keywords
 
 * Collabortive Filtering -- SVD
