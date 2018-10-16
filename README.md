@@ -5,7 +5,7 @@ Simple movie recommender systems:
   * based on casts, crews, keywords
 
 * Collabortive Filtering -- SVD
-* Item-Item CF RecSys
-  * With\out global baseline
+* User-User/Item-Item CF RecSys
+  * With/Without global baseline
 
 * Neural network RecSys (To be added)
