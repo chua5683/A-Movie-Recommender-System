@@ -1,6 +1,5 @@
 Simple movie recommender systems:
 
-To do list:
 * Content based recommender system
   * based on movie metadata
   * based on casts, crews, keywords
@@ -9,4 +8,4 @@ To do list:
 * Item-Item CF RecSys
   * With\out global baseline
 
-* Neural network RecSys
+* Neural network RecSys (Working)
