@@ -8,4 +8,4 @@ Simple movie recommender systems:
 * Item-Item CF RecSys
   * With\out global baseline
 
-* Neural network RecSys (Working)
+* Neural network RecSys (To be added)
